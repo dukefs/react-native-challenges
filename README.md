@@ -41,3 +41,5 @@ Become a financial contributor and help us sustain our community. Your photo wil
 Support this project with your organization. Your logo will show up here with a link to your website.
 
 [![Patreon](https://img.shields.io/static/v1?label=Patreon&message=%20&color=blue&logo=Patreon&style=flat-square&logoColor=white)](https://cutt.ly/Ca5GF4u)
+
+Made with :heart: by <a href="https://github.com/dukefullstack">Thiago Santos Joaquim</a>. MIT License
