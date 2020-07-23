@@ -22,6 +22,7 @@ Don't miss the updates when I release new apps, just subscribe to our [Youtube C
 ### Code Contributors
 
 This project exists thanks to all the people who contribute.
+
 <a href="https://github.com/dukefullstack/store-app-castore/graphs/contributors">
 <img src="https://github.com/dukefullstack/react-native-challenges/blob/master/images/contributors/dukefullstack.png?raw=true" width="342" />
 </a>
