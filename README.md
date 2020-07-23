@@ -14,7 +14,7 @@ Don't miss the updates when I release new apps, just subscribe to our [Youtube C
 
 | Project | Preview | Screens | Estimation | Status | Designer | Contributors|
 | ------ | ------ | :------: | :------: | :------: | :------: | :------: |
-| [CA Store App](https://www.ui8.net/carrot-labs/products/castore-mobile-ui-kit)  | <img src="https://github.com/dukefullstack/react-native-challenges/blob/master/images/preview/store-app-castore.png?raw=true" width="90" /> | 11 | ~40 hours | :hammer_and_wrench: | [Carrot Labs](https://www.ui8.net/carrot-labs/products?status=0) | [View All](https://github.com/dukefullstack/store-app-castore/graphs/contributors)
+| [CA Store App](https://github.com/dukefullstack/store-app-castore)  | <a href="https://www.ui8.net/carrot-labs/products/castore-mobile-ui-kit"><img src="https://github.com/dukefullstack/react-native-challenges/blob/master/images/preview/store-app-castore.png?raw=true" width="90" /></a> | 11 | ~40 hours | :hammer_and_wrench: | [Carrot Labs](https://www.ui8.net/carrot-labs/products?status=0) | [View All](https://github.com/dukefullstack/store-app-castore/graphs/contributors)
 | [Your App](https://github.com/react-ui-kit/dribbble2react/issues/new?assignees=&labels=&template=feature_request.md&title=)  | Your Design | - | ~ hours | :point_left::hammer_and_wrench: | - | - |
 
 ## Contributors
