@@ -6,6 +6,7 @@
 [![Twitch](https://img.shields.io/static/v1?label=Twitch&message=%20&color=blue&logo=Twitch&style=flat-square&logoColor=white)](https://cutt.ly/ba5kmvf)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://cutt.ly/ea5ErX2)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=blue&logo=Instagram&style=flat-square&logoColor=white)](https://cutt.ly/1a5Emmo)
+[![Patreon](https://img.shields.io/static/v1?label=Patreon&message=%20&color=blue&logo=Patreon&style=flat-square&logoColor=white)](https://cutt.ly/Ca5GF4u)
 
 We're transforming designs from [Dribbble](https://dribbble.com/), [Behance](https://www.behance.net/) and [UI8](https://www.ui8.net/) to React / React-Native code.
 
